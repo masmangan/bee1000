@@ -2,7 +2,7 @@ package com.example.demo;
 
 
 /**
- * 
+ * @author marco.mangan@pucrs.br
  */
 public class DemoApplication {
 
